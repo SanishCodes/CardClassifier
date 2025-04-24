@@ -1,9 +1,15 @@
+# Card Classifier
+![](./images/banner.png)
 ## 📁 Project Structure
-
-- FirstPyTorch.ipynb: Jupyter Notebook containing the full training pipeline, model architecture, and evaluation code.
+- card_classifier.ipynb: Jupyter Notebook containing the full training pipeline, model architecture, and evaluation code.
 - card_classifier.pkl: Serialized PyTorch model for inference.
 - Dataset Source: [Kaggle - Cards Image Dataset (Classification)](https://www.kaggle.com/datasets/gpiosenka/cards-image-datasetclassification)
 
+## 💻 Model Snippets
+![](./images/screenshot_1.png)
+![](./images/screenshot_3.png)
+![](./images/screenshot_4.png)
+![](./images/screenshot_5.png)
 ## 🚀 Features
 
 - Built with PyTorch and torchvision  
